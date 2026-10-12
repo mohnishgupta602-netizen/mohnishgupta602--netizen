@@ -6,7 +6,7 @@
 
 <br/>
 
-## <span style="color: #38bdf8;">Backend Developer @ Sanfy Consultancy Services</span>
+## <span style="color: #38bdf8;">Backend Engineer & Systems Architect</span>
 
 *Building scalable backend architectures, real-time streaming services, and AI-driven automation pipelines.*
 
@@ -26,7 +26,6 @@
 ```javascript
 const mohnish = {
   role:       "Backend Developer",
-  company:    "Sanfy Consultancy Services Pvt. Ltd.",
   education:  "B.Tech CSE, United Institute of Technology (2023–2027)",
   stack:      ["FastAPI", "Python", "Node.js", "Express.js", "Docker", "WebSockets"],
   databases:  ["PostgreSQL", "MongoDB", "MySQL", "Redis"],

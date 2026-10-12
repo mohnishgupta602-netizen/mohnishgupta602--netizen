@@ -1,6 +1,6 @@
 <div align="center">
 
-# Mohnish Gupta
+# Mohnish Narayan Gupta
 
 ### **Backend Engineer & Systems Architect**
 
@@ -21,7 +21,7 @@ Computer Science & Engineering undergraduate with an emphasis on **backend infra
 
 * **Primary Runtime:** Python (FastAPI, AsyncIO, PyTorch), Node.js / TypeScript
 * **Data & Cache Layer:** PostgreSQL (WAL, Connection Pooling), Redis, ChromaDB, Supabase
-* **Infrastructure:** Docker, n8n Core Engine, Cloud Run / Render, WebSockets & Event Hooks
+* **Infrastructure:** Docker, Cloud Run / Render, WebSockets & Event Hooks
 
 ---
 
@@ -32,7 +32,7 @@ Computer Science & Engineering undergraduate with an emphasis on **backend infra
 | **Backend & Core Engine** | `FastAPI` `Python 3.11+` `AsyncIO` `Node.js` `Express` `REST APIs` `WebSockets` |
 | **AI, RAG & Edge Vision** | `LangChain` `ChromaDB` `YOLOv8` `OpenCV` `Whisper` `Vector Embeddings` |
 | **Data & State Management** | `PostgreSQL` `Supabase` `Redis` `SQLite (WAL)` `Prisma` |
-| **DevOps & Workflows** | `Docker` `Docker Compose` `n8n Automation` `CI/CD Pipelines` `Vercel` `Linux` |
+| **DevOps & Infrastructure** | `Docker` `Docker Compose` `CI/CD Pipelines` `Vercel` `Linux` |
 | **Frontend Integration** | `React` `Next.js` `TailwindCSS` `TypeScript` `Three.js / R3F` |
 
 ---
@@ -49,17 +49,7 @@ Computer Science & Engineering undergraduate with an emphasis on **backend infra
 
 ---
 
-### **02. Orvanto AI — Autonomous Revenue & Sales Pipeline Engine**
-> Enterprise-grade event-driven infrastructure automating inbound lead routing, enrichment, and CRM synchronization.
-
-* **Architecture:** Asynchronous webhook receiver parsing heterogeneous payloads and routing through custom n8n execution nodes.
-* **Storage & Integrity:** Managed `PostgreSQL` via `Supabase` with strict relational constraints and audit trails.
-* **Key Outcome:** Fully automated end-to-end CRM lifecycle processing hundreds of live webhook events daily without message drops.
-* `FastAPI` `n8n Engine` `Supabase` `PostgreSQL` `Event-Driven Webhooks`
-
----
-
-### **03. KavachG — Intelligent Edge Safety & Threat Monitoring**
+### **02. KavachG — Intelligent Edge Safety & Threat Monitoring**
 > Edge computer-vision pipeline running localized inference for compliance detection and automated anomaly dispatch.
 
 * **Architecture:** Real-time frame ingestion pipeline applying object detection and zone-boundary tracking.

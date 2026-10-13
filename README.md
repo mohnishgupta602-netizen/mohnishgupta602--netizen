@@ -24,7 +24,6 @@ src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-
 width="100%"/>
 
 <img src="https://cdn.simpleicons.org/aboutdotme/61DAFB" width="24"/> About Me
-
 const mohnish = {
   role: "Software Developer",
   education: "B.Tech CSE — United Institute of Technology",
@@ -59,9 +58,7 @@ const mohnish = {
     "Collaborative Product Building"
   ]
 };
-
 What I Do
-
 🚀 Build full-stack applications with React, Next.js, FastAPI
 and modern backend services.
 
@@ -88,9 +85,7 @@ src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-
 width="100%"/>
 
 <img src="https://cdn.simpleicons.org/briefcase/61DAFB" width="24"/> Experience & Current Work
-
 💼 Sanfy Services --- Software / Product Engineering
-
 Working on Orvanto AI, an AI-powered sales and outbound
 infrastructure platform.
 
@@ -127,7 +122,6 @@ src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-
 width="100%"/>
 
 <img src="https://cdn.simpleicons.org/rocket/61DAFB" width="24"/> Featured Projects
-
 <table align="center"> <tr> <td align="center" width="33%"> <img
 src="https://cdn.simpleicons.org/fastapi/61DAFB"
 width="32"/><br/><br/> <b>AETHON</b><br/> <sub>Industrial
@@ -160,15 +154,12 @@ src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-
 width="100%"/>
 
 <img src="https://cdn.simpleicons.org/stackblitz/61DAFB" width="24"/> Tech Stack
-
 Languages & Frameworks
-
 <p align="center"> <img
 src="https://skillicons.dev/icons?i=python,cpp,c,js,ts,react,nextjs,nodejs,fastapi,flask,html,css,tailwind,threejs&perline=14"
 /> </p>
 
 Backend, Databases & APIs
-
 <p align="center"> <img
 src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite,supabase,redis&perline=6"
 /> </p>
@@ -178,7 +169,6 @@ src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite,supabase,redis
 </p>
 
 DevOps & Tools
-
 <p align="center"> <img
 src="https://skillicons.dev/icons?i=docker,git,github,vscode,vercel,netlify,figma&perline=7"
 /> </p>
@@ -187,7 +177,6 @@ src="https://skillicons.dev/icons?i=docker,git,github,vscode,vercel,netlify,figm
 <b>Supabase</b> · <b>Postman</b> · <b>OpenRouter</b> </p>
 
 AI / ML / Data
-
 <p align="center"> <img
 src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&perline=5"
 /> </p>
@@ -204,7 +193,6 @@ src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-
 width="100%"/>
 
 <img src="https://cdn.simpleicons.org/brain/61DAFB" width="24"/> What I'm Exploring
-
 AI Agents & Autonomous Systems
         ↓
 RAG + Knowledge Systems + Vector Search
@@ -214,7 +202,6 @@ Reliable Backend & Event-Driven Architecture
 Real-World Automation + Computer Vision
         ↓
 Reinforcement Learning / GRPO / AI Research
-
 I am especially interested in the gap between AI prototypes and
 dependable production systems --- evaluation, observability, state
 management, failure handling, evidence validation and real-world
@@ -225,9 +212,7 @@ src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-
 width="100%"/>
 
 <img src="https://cdn.simpleicons.org/googlescholar/61DAFB" width="24"/> Achievements & Learning
-
 🏆 Hackathons
-
 🥇 TechSrijan 2026 --- Overall Best Project
 
 🥈 UHACK 4.0 --- Second Runner-Up
@@ -237,14 +222,12 @@ width="100%"/>
 🚀 Multiple AI/product-focused hackathon and prototype competitions.
 
 📜 Certifications & Learning
-
 NPTEL --- Cloud Computing
 
 Hands-on learning across backend engineering, AI/ML, cloud, Docker
 and modern web development.
 
 🔬 Research Interests
-
 Reinforcement Learning
 
 GRPO and reasoning-oriented AI
@@ -262,7 +245,6 @@ src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-
 width="100%"/>
 
 <img src="https://cdn.simpleicons.org/githubactions/61DAFB" width="24"/> GitHub Analytics
-
 <p align="center"> <img height="170"
 src="https://github-readme-stats.shion.dev/api?username=mohnishgupta602-netizen&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000"
 /> <img height="170"
@@ -278,7 +260,6 @@ src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-
 width="100%"/>
 
 <img src="https://cdn.simpleicons.org/git/61DAFB" width="24"/> Contribution Graph
-
 <p align="center"> <img
 src="https://github-readme-activity-graph.vercel.app/graph?username=mohnishgupta602-netizen&theme=tokyo-night&hide_border=true&area=true"
 width="100%"/> </p>
@@ -292,14 +273,12 @@ src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-
 width="100%"/>
 
 <img src="https://cdn.simpleicons.org/target/61DAFB" width="24"/> Current Focus
-
 ▸ Strengthening DSA & problem solving
 ▸ Building production-grade backend systems
 ▸ Developing AI-powered products
 ▸ Improving system design & software architecture
 ▸ Exploring AI agents, RAG and reinforcement learning
 ▸ Preparing for software engineering opportunities
-
 <p align="center"> <b>💡 Build → Test → Measure → Break → Fix →
 Ship</b> </p>
 
@@ -309,3 +288,4 @@ problems --- not just projects that look good in a demo.</i> </p>
 <p align="center"> <img
 src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"
 width="100%"/> </p>
+

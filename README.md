@@ -20,7 +20,7 @@
 
 ### ⚡ System Overview
 
-typescript
+```typescript
 interface SoftwareEngineer {
   name: "Mohnish Narayan Gupta";
   focus: ["Scalable Microservices", "Real-Time Streaming", "Applied AI/CV", "3D Graphics"];

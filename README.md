@@ -1,76 +1,56 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0f172a,100:1e293b&height=180&section=header&text=Mohnish%20Narayan%20Gupta&fontSize=40&fontColor=38bdf8&animation=fadeIn" width="100%" />
-</div>
+  <!-- Dynamic Gradient Wave Header with Neon Accents -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:00f2fe&height=220&section=header&text=Mohnish%20Narayan%20Gupta&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Distributed%20Systems%20%7C%20Machine%20Intelligence&descSize=16&descAlignY=58&descColor=38bdf8&animation=fadeIn" width="100%" />
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=38BDF8&center=true&vCenter=true&width=550&lines=Backend+Engineer+%26+Full-Stack+Developer;Building+Real-Time+APIs+%26+ML-Powered+Systems;Exploring+3D+Web+Visualizations+via+Three.js;Hackathon+Builder+%26+Rapid+Prototyper" alt="Typing SVG" />
+  <!-- Animated Terminal Typing SVG -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00F2FE&center=true&vCenter=true&multiline=true&width=620&height=80&lines=%E2%96%B6+Architecting+Fault-Tolerant+Backend+Engines;%E2%96%B6+Streaming+High-Throughput+Real-Time+Pipelines;%E2%96%B6+Accelerating+ML+Inference+%26+Vector+Embeddings;%E2%96%B6+Rendering+Interactive+WebGL+%26+Spatial+Visuals" alt="Typing SVG" />
   </a>
-</p>
 
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://YOUR_PORTFOLIO_SITE"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
-  <a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
-</p>
-
----
-
-### 💻 About Me
-
-I build resilient backend microservices, real-time audio/data pipelines, and interactive 3D web interfaces. My focus sits at the intersection of performant systems engineering and applied machine learning.
-
-- 🔭 **Core Focus:** Asynchronous backend APIs, real-time streaming architectures, and interactive 3D simulations.
-- ⚡ **Architecture Philosophy:** Strict schema contracts, low-latency endpoints, and lean client-side rendering.
-- 🏆 **Hackathons:** Finalist & builder across competitive engineering hackathons (uHack 4.0, BrailleVision, ET Hackathon).
-- 🛠️ **Current Stack:** Python, FastAPI, PyTorch, TypeScript, Three.js, React, Docker, and Vector Databases.
-
----
-
-### 🛠️ Tech Stack & Tooling
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=py,fastapi,pytorch,ts,react,threejs,docker,postgres,supabase&perline=9" />
+  <!-- Social Badges with Cyberpunk Accents -->
+  <p align="center">
+    <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://YOUR_PORTFOLIO_SITE"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=00f2fe" /></a>
+    <a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=00f2fe" alt="Profile Views" />
+  </p>
 </div>
 
 ---
 
-### 🚀 Selected Highlights
+### ⚡ System Overview
 
-#### 🛡️ [A.E.G.I.S — Audio Edge Guard for Intelligent Scam Prevention](https://github.com/your-github-username/aegis)
-*Real-time audio processing and scam-detection engine for live stream analysis.*
-- **Role:** Backend Engineering & Stream Pipeline Architecture
-- **Tech Stack:** FastAPI, WebSockets, WhisperLiveKit, Sarvam AI, Docker
-- **Highlight:** Streamlined concurrent live-audio feeds with sub-second inference triggers and structured risk alerting. Finalist at **uHack 4.0**.
+typescript
+interface SoftwareEngineer {
+  name: "Mohnish Narayan Gupta";
+  focus: ["Scalable Microservices", "Real-Time Streaming", "Applied AI/CV", "3D Graphics"];
+  architecturePatterns: ["Event-Driven", "Pub/Sub", "WAL Logging", "Vector Retrieval"];
+  status: "Deploying high-throughput services & competing in hackathons";
+}
 
-#### 🌐 [Concept3D — AI Concept-to-3D Visualization Platform](https://github.com/your-github-username/concept3d)
-*Interactive web workspace transforming conceptual inputs into interactive 3D assets.*
-- **Role:** System Architecture & 3D Web Frontend
-- **Tech Stack:** React, Three.js / WebGL, Python, Tripo3D API, Vercel, Render
-- **Highlight:** Built an interactive WebGL viewport supporting dynamic model loading, camera orbit controls, and lighting configurations at 60 FPS.
+name: Generate Snake Animation
 
-#### 🧠 [AETHON — Industrial Multimodal Knowledge Intelligence](https://github.com/your-github-username/aethon)
-*High-throughput enterprise intelligence engine combining multimodal RAG and structured knowledge graphs.*
-- **Role:** Backend Services & Vector Pipeline Architecture
-- **Tech Stack:** FastAPI, ChromaDB, SQLite (WAL Mode), PyTorch, Docker
-- **Highlight:** Built for **Economic Times Hackathon 2.0** to handle parallel retrieval over unstructured documentation and vector embeddings.
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
-#### ☀️ [SunMap — 3D Solar Potential & Revenue Analytics](https://github.com/your-github-username/sunmap)
-*Geospatial 3D analytics engine calculating rooftop solar irradiance and projected yield.*
-- **Role:** Full-Stack & Spatial Modeling
-- **Tech Stack:** Three.js, PyTorch, Python, TailwindCSS
-- **Highlight:** Visualized ray-casted solar shadow data on procedural 3D structures with real-time revenue projections.
-
----
-
-### 📊 Engineering Metrics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
-</div>
-
----
-
-<p align="center">
-  <sub>Open to collaboration on high-performance backend pipelines, real-time AI tooling, and 3D web applications.</sub>
-</p>
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0f172a,100:1e293b&height=180&section=header&text=Mohammad%20Huzaifa&fontSize=42&fontColor=38bdf8&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0f172a,100:1e293b&height=180&section=header&text=Mohnish%20Narayan%20Gupta&fontSize=40&fontColor=38bdf8&animation=fadeIn" width="100%" />
 </div>
 
 <p align="center">
